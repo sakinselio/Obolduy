@@ -1,0 +1,2786 @@
+{
+  "nextCaptId": 7,
+  "nextApplicationId": 3,
+  "activeCapt": null,
+  "activeCapts": [
+    {
+      "id": 4,
+      "guildId": "294152646778945537",
+      "channelId": "1524166671487598622",
+      "messageId": "1545030090285650011",
+      "time": "20:30",
+      "slots": 30,
+      "createdBy": "331065359626928128",
+      "createdAt": "2026-09-03T11:17:57.524Z",
+      "participants": [],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false
+    },
+    {
+      "id": 5,
+      "guildId": "294152646778945537",
+      "channelId": "1542826483943211049",
+      "messageId": "1547196816875982929",
+      "time": "15:30",
+      "slots": 35,
+      "createdBy": "1428289234770464799",
+      "createdAt": "2026-09-09T10:47:45.500Z",
+      "participants": [
+        {
+          "id": "1468922455790850174",
+          "name": "Interiz",
+          "joinedAt": "2026-09-09T10:48:07.729Z"
+        },
+        {
+          "id": "893169474398748742",
+          "name": "akame.1337",
+          "joinedAt": "2026-09-09T10:48:17.736Z"
+        },
+        {
+          "id": "828957469953884160",
+          "name": "Rotten",
+          "joinedAt": "2026-09-09T10:50:11.530Z"
+        },
+        {
+          "id": "293034161999183874",
+          "name": "Ori",
+          "joinedAt": "2026-09-09T10:59:46.099Z"
+        },
+        {
+          "id": "273106859035066375",
+          "name": "waifu",
+          "joinedAt": "2026-09-09T11:06:45.194Z"
+        },
+        {
+          "id": "1409550627557871687",
+          "name": "ilysha",
+          "joinedAt": "2026-09-09T11:21:53.866Z"
+        },
+        {
+          "id": "484505431289364483",
+          "name": "Snake",
+          "joinedAt": "2026-09-09T11:24:31.188Z"
+        },
+        {
+          "id": "467303889318707220",
+          "name": "!Maxim",
+          "joinedAt": "2026-09-09T11:33:57.479Z"
+        },
+        {
+          "id": "641930694758760449",
+          "name": "Kerry",
+          "joinedAt": "2026-09-09T11:48:07.165Z"
+        },
+        {
+          "id": "331065359626928128",
+          "name": "Geshka",
+          "joinedAt": "2026-09-09T11:50:10.468Z"
+        },
+        {
+          "id": "1539944112533545085",
+          "name": "Silka",
+          "joinedAt": "2026-09-09T12:08:17.726Z"
+        },
+        {
+          "id": "963691722108461077",
+          "name": "Shiro",
+          "joinedAt": "2026-09-09T12:30:00.400Z"
+        },
+        {
+          "id": "1085812699893612594",
+          "name": "m!shanya фрирайдер с украины",
+          "joinedAt": "2026-09-09T12:42:34.771Z"
+        },
+        {
+          "id": "269692665304580106",
+          "name": "Maestro",
+          "joinedAt": "2026-09-09T12:53:26.452Z"
+        },
+        {
+          "id": "1224333734787022869",
+          "name": "Nikky",
+          "joinedAt": "2026-09-09T13:23:42.826Z"
+        },
+        {
+          "id": "1201632866036088913",
+          "name": "Lexus",
+          "joinedAt": "2026-09-09T13:54:58.654Z"
+        },
+        {
+          "id": "730790319351660604",
+          "name": "Razor",
+          "joinedAt": "2026-09-09T14:17:30.957Z"
+        },
+        {
+          "id": "1072198969075191858",
+          "name": "Kamil",
+          "joinedAt": "2026-09-09T14:24:35.839Z"
+        },
+        {
+          "id": "1170308903582580776",
+          "name": "lapunez",
+          "joinedAt": "2026-09-09T14:26:34.391Z"
+        },
+        {
+          "id": "649504229928468502",
+          "name": "Jonatan",
+          "joinedAt": "2026-09-09T14:38:22.360Z"
+        },
+        {
+          "id": "580019096683413514",
+          "name": "Danielo",
+          "joinedAt": "2026-09-09T14:45:25.644Z"
+        },
+        {
+          "id": "1244067170976010305",
+          "name": "Obito",
+          "joinedAt": "2026-09-09T15:06:21.697Z"
+        }
+      ],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false
+    },
+    {
+      "id": 6,
+      "guildId": "294152646778945537",
+      "channelId": "1542826483943211049",
+      "messageId": "1547262712143286294",
+      "time": "18:25",
+      "slots": 35,
+      "createdBy": "331065359626928128",
+      "createdAt": "2026-09-09T15:09:35.889Z",
+      "participants": [
+        {
+          "id": "331065359626928128",
+          "name": "Geshka",
+          "joinedAt": "2026-09-09T15:09:38.273Z"
+        },
+        {
+          "id": "649504229928468502",
+          "name": "Jonatan",
+          "joinedAt": "2026-09-09T15:09:45.385Z"
+        },
+        {
+          "id": "1468922455790850174",
+          "name": "Interiz",
+          "joinedAt": "2026-09-09T15:09:45.431Z"
+        },
+        {
+          "id": "293034161999183874",
+          "name": "Ori",
+          "joinedAt": "2026-09-09T15:09:48.996Z"
+        },
+        {
+          "id": "828957469953884160",
+          "name": "Rotten",
+          "joinedAt": "2026-09-09T15:09:53.289Z"
+        },
+        {
+          "id": "467303889318707220",
+          "name": "!Maxim",
+          "joinedAt": "2026-09-09T15:10:01.835Z"
+        },
+        {
+          "id": "1072198969075191858",
+          "name": "Kamil",
+          "joinedAt": "2026-09-09T15:10:02.502Z"
+        },
+        {
+          "id": "1085812699893612594",
+          "name": "m!shanya фрирайдер с украины",
+          "joinedAt": "2026-09-09T15:10:05.293Z"
+        },
+        {
+          "id": "1244067170976010305",
+          "name": "Obito",
+          "joinedAt": "2026-09-09T15:10:08.175Z"
+        },
+        {
+          "id": "893169474398748742",
+          "name": "akame.1337",
+          "joinedAt": "2026-09-09T15:10:20.331Z"
+        },
+        {
+          "id": "730790319351660604",
+          "name": "Razor",
+          "joinedAt": "2026-09-09T15:10:23.844Z"
+        },
+        {
+          "id": "1170308903582580776",
+          "name": "lapunez",
+          "joinedAt": "2026-09-09T15:10:35.219Z"
+        },
+        {
+          "id": "273106859035066375",
+          "name": "waifu",
+          "joinedAt": "2026-09-09T15:11:26.062Z"
+        },
+        {
+          "id": "1224333734787022869",
+          "name": "Nikky",
+          "joinedAt": "2026-09-09T15:11:28.363Z"
+        },
+        {
+          "id": "1409550627557871687",
+          "name": "ilysha",
+          "joinedAt": "2026-09-09T15:11:31.131Z"
+        },
+        {
+          "id": "963691722108461077",
+          "name": "Shiro",
+          "joinedAt": "2026-09-09T15:11:34.951Z"
+        },
+        {
+          "id": "1539944112533545085",
+          "name": "Silka",
+          "joinedAt": "2026-09-09T15:12:07.041Z"
+        },
+        {
+          "id": "580019096683413514",
+          "name": "Danielo",
+          "joinedAt": "2026-09-09T15:13:05.669Z"
+        },
+        {
+          "id": "948272643461771274",
+          "name": "ORGAZM",
+          "joinedAt": "2026-09-09T15:14:40.827Z"
+        },
+        {
+          "id": "269692665304580106",
+          "name": "Maestro",
+          "joinedAt": "2026-09-09T15:18:30.348Z"
+        },
+        {
+          "id": "484505431289364483",
+          "name": "Snake",
+          "joinedAt": "2026-09-09T15:27:33.159Z"
+        }
+      ],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false
+    }
+  ],
+  "activeMcls": [],
+  "nextMclId": 1,
+  "captHistory": [
+    {
+      "id": 1,
+      "guildId": "294152646778945537",
+      "channelId": "1542826483943211049",
+      "messageId": "1544649594577621003",
+      "time": "15:30",
+      "slots": 35,
+      "createdBy": "331065359626928128",
+      "createdAt": "2026-09-02T10:06:00.318Z",
+      "participants": [
+        {
+          "id": "331065359626928128",
+          "name": "Geshka",
+          "joinedAt": "2026-09-02T10:06:02.891Z"
+        },
+        {
+          "id": "828957469953884160",
+          "name": "Rotten",
+          "joinedAt": "2026-09-02T10:06:38.876Z"
+        },
+        {
+          "id": "1048199324359729213",
+          "name": "Leo",
+          "joinedAt": "2026-09-02T10:06:45.415Z"
+        },
+        {
+          "id": "1455178033655709751",
+          "name": "Sakura",
+          "joinedAt": "2026-09-02T10:07:14.501Z"
+        },
+        {
+          "id": "484505431289364483",
+          "name": "Snake",
+          "joinedAt": "2026-09-02T10:08:07.069Z"
+        },
+        {
+          "id": "641930694758760449",
+          "name": "Kerry",
+          "joinedAt": "2026-09-02T10:08:10.042Z"
+        },
+        {
+          "id": "1190593261685964844",
+          "name": "Guggik",
+          "joinedAt": "2026-09-02T10:15:17.091Z"
+        },
+        {
+          "id": "293034161999183874",
+          "name": "Ori",
+          "joinedAt": "2026-09-02T10:23:55.921Z"
+        },
+        {
+          "id": "1409550627557871687",
+          "name": "ИЛЮША",
+          "joinedAt": "2026-09-02T10:24:03.296Z"
+        },
+        {
+          "id": "273106859035066375",
+          "name": "waifu",
+          "joinedAt": "2026-09-02T10:43:03.288Z"
+        },
+        {
+          "id": "580019096683413514",
+          "name": "Danielo",
+          "joinedAt": "2026-09-02T10:47:02.163Z"
+        },
+        {
+          "id": "1429165469226500197",
+          "name": "Twisty",
+          "joinedAt": "2026-09-02T10:54:24.178Z"
+        },
+        {
+          "id": "1072120819402154037",
+          "name": "Gothic",
+          "joinedAt": "2026-09-02T11:23:46.468Z"
+        },
+        {
+          "id": "649504229928468502",
+          "name": "Jonatan",
+          "joinedAt": "2026-09-02T11:31:02.136Z"
+        },
+        {
+          "id": "1224333734787022869",
+          "name": "Nikky",
+          "joinedAt": "2026-09-02T11:41:14.338Z"
+        },
+        {
+          "id": "1085812699893612594",
+          "name": "m!shanya фрирайдер с украины",
+          "joinedAt": "2026-09-02T11:43:27.050Z"
+        },
+        {
+          "id": "754741089281507359",
+          "name": "Carp",
+          "joinedAt": "2026-09-02T11:43:27.550Z"
+        },
+        {
+          "id": "730090861572128821",
+          "name": "Echo",
+          "joinedAt": "2026-09-02T11:50:53.008Z"
+        },
+        {
+          "id": "1170308903582580776",
+          "name": "lapunez",
+          "joinedAt": "2026-09-02T11:51:37.713Z"
+        },
+        {
+          "id": "1525056150742106144",
+          "name": "show",
+          "joinedAt": "2026-09-02T11:53:37.800Z"
+        }
+      ],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false,
+      "status": "finished",
+      "finishedAt": "2026-09-02T13:00:07.190Z"
+    },
+    {
+      "id": 2,
+      "guildId": "294152646778945537",
+      "channelId": "1542826483943211049",
+      "messageId": "1544693536434290813",
+      "time": "16:35",
+      "slots": 35,
+      "createdBy": "331065359626928128",
+      "createdAt": "2026-09-02T13:00:36.546Z",
+      "participants": [
+        {
+          "id": "331065359626928128",
+          "name": "Geshka",
+          "joinedAt": "2026-09-02T13:00:42.595Z"
+        },
+        {
+          "id": "1085812699893612594",
+          "name": "m!shanya фрирайдер с украины",
+          "joinedAt": "2026-09-02T13:01:21.499Z"
+        },
+        {
+          "id": "1190593261685964844",
+          "name": "Guggik",
+          "joinedAt": "2026-09-02T13:01:28.477Z"
+        },
+        {
+          "id": "1170308903582580776",
+          "name": "lapunez",
+          "joinedAt": "2026-09-02T13:01:36.897Z"
+        },
+        {
+          "id": "484505431289364483",
+          "name": "Snake",
+          "joinedAt": "2026-09-02T13:01:38.584Z"
+        },
+        {
+          "id": "730090861572128821",
+          "name": "Echo",
+          "joinedAt": "2026-09-02T13:01:40.639Z"
+        },
+        {
+          "id": "1429165469226500197",
+          "name": "Twisty",
+          "joinedAt": "2026-09-02T13:01:42.624Z"
+        },
+        {
+          "id": "1224333734787022869",
+          "name": "Nikky",
+          "joinedAt": "2026-09-02T13:01:43.186Z"
+        },
+        {
+          "id": "1409550627557871687",
+          "name": "ИЛЮША",
+          "joinedAt": "2026-09-02T13:01:44.276Z"
+        },
+        {
+          "id": "293034161999183874",
+          "name": "Ori",
+          "joinedAt": "2026-09-02T13:01:56.961Z"
+        },
+        {
+          "id": "649504229928468502",
+          "name": "Jonatan",
+          "joinedAt": "2026-09-02T13:02:20.212Z"
+        },
+        {
+          "id": "828957469953884160",
+          "name": "Rotten",
+          "joinedAt": "2026-09-02T13:02:37.256Z"
+        },
+        {
+          "id": "273106859035066375",
+          "name": "waifu",
+          "joinedAt": "2026-09-02T13:02:48.249Z"
+        },
+        {
+          "id": "754741089281507359",
+          "name": "Carp",
+          "joinedAt": "2026-09-02T13:03:27.209Z"
+        },
+        {
+          "id": "641930694758760449",
+          "name": "Kerry",
+          "joinedAt": "2026-09-02T13:04:30.857Z"
+        },
+        {
+          "id": "730790319351660604",
+          "name": "Razor",
+          "joinedAt": "2026-09-02T13:05:56.782Z"
+        },
+        {
+          "id": "1048199324359729213",
+          "name": "Leo",
+          "joinedAt": "2026-09-02T13:06:36.927Z"
+        },
+        {
+          "id": "1072120819402154037",
+          "name": "Gothic",
+          "joinedAt": "2026-09-02T13:09:03.937Z"
+        },
+        {
+          "id": "1455178033655709751",
+          "name": "Sakura",
+          "joinedAt": "2026-09-02T13:15:33.073Z"
+        },
+        {
+          "id": "524114586920681484",
+          "name": "Dekcio",
+          "joinedAt": "2026-09-02T13:16:21.035Z"
+        },
+        {
+          "id": "1525056150742106144",
+          "name": "show",
+          "joinedAt": "2026-09-02T13:16:40.026Z"
+        },
+        {
+          "id": "580019096683413514",
+          "name": "Danielo",
+          "joinedAt": "2026-09-02T13:38:49.821Z"
+        }
+      ],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false,
+      "status": "finished",
+      "finishedAt": "2026-09-02T14:21:17.392Z"
+    },
+    {
+      "id": 3,
+      "guildId": "294152646778945537",
+      "channelId": "1542826483943211049",
+      "messageId": "1544715558971379823",
+      "time": "17:45",
+      "slots": 35,
+      "createdBy": "331065359626928128",
+      "createdAt": "2026-09-02T14:28:07.287Z",
+      "participants": [
+        {
+          "id": "1190593261685964844",
+          "name": "Guggik",
+          "joinedAt": "2026-09-02T14:28:09.843Z"
+        },
+        {
+          "id": "331065359626928128",
+          "name": "Geshka",
+          "joinedAt": "2026-09-02T14:28:10.027Z"
+        },
+        {
+          "id": "484505431289364483",
+          "name": "Snake",
+          "joinedAt": "2026-09-02T14:28:10.126Z"
+        },
+        {
+          "id": "1455178033655709751",
+          "name": "Sakura",
+          "joinedAt": "2026-09-02T14:28:12.311Z"
+        },
+        {
+          "id": "649504229928468502",
+          "name": "Jonatan",
+          "joinedAt": "2026-09-02T14:28:12.908Z"
+        },
+        {
+          "id": "1170308903582580776",
+          "name": "lapunez",
+          "joinedAt": "2026-09-02T14:28:20.154Z"
+        },
+        {
+          "id": "1072120819402154037",
+          "name": "Gothic",
+          "joinedAt": "2026-09-02T14:28:23.289Z"
+        },
+        {
+          "id": "1085812699893612594",
+          "name": "m!shanya фрирайдер с украины",
+          "joinedAt": "2026-09-02T14:28:29.271Z"
+        },
+        {
+          "id": "754741089281507359",
+          "name": "Carp",
+          "joinedAt": "2026-09-02T14:28:42.514Z"
+        },
+        {
+          "id": "1224333734787022869",
+          "name": "Nikky",
+          "joinedAt": "2026-09-02T14:28:46.105Z"
+        },
+        {
+          "id": "293034161999183874",
+          "name": "Ori",
+          "joinedAt": "2026-09-02T14:28:50.494Z"
+        },
+        {
+          "id": "730090861572128821",
+          "name": "Echo",
+          "joinedAt": "2026-09-02T14:28:58.359Z"
+        },
+        {
+          "id": "1525056150742106144",
+          "name": "show",
+          "joinedAt": "2026-09-02T14:29:14.349Z"
+        },
+        {
+          "id": "828957469953884160",
+          "name": "Rotten",
+          "joinedAt": "2026-09-02T14:30:38.450Z"
+        },
+        {
+          "id": "1429165469226500197",
+          "name": "Twisty",
+          "joinedAt": "2026-09-02T14:31:48.292Z"
+        },
+        {
+          "id": "690953039779070013",
+          "name": "Romka",
+          "joinedAt": "2026-09-02T14:33:44.883Z"
+        },
+        {
+          "id": "730790319351660604",
+          "name": "Razor",
+          "joinedAt": "2026-09-02T14:34:15.370Z"
+        },
+        {
+          "id": "580019096683413514",
+          "name": "Danielo",
+          "joinedAt": "2026-09-02T14:35:39.053Z"
+        },
+        {
+          "id": "273106859035066375",
+          "name": "waifu",
+          "joinedAt": "2026-09-02T14:41:09.917Z"
+        },
+        {
+          "id": "1244067170976010305",
+          "name": "Obito",
+          "joinedAt": "2026-09-02T15:18:47.060Z"
+        },
+        {
+          "id": "1409550627557871687",
+          "name": "ИЛЮША",
+          "joinedAt": "2026-09-02T15:18:53.757Z"
+        }
+      ],
+      "reserves": [],
+      "closed": false,
+      "reminderMinutes": 0,
+      "reminderSent": false,
+      "status": "finished",
+      "finishedAt": "2026-09-02T17:58:56.229Z"
+    }
+  ],
+  "mclHistory": [],
+  "logs": [
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_CREATE",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:06:01.236Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:06:02.893Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:06:38.876Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1048199324359729213",
+      "actorName": "Leo",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:06:45.415Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:07:14.501Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:08:07.069Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "641930694758760449",
+      "actorName": "Kerry",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:08:10.042Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1190593261685964844",
+      "actorName": "Guggik",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:15:17.091Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:23:55.921Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1409550627557871687",
+      "actorName": "ИЛЮША",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:24:03.296Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "273106859035066375",
+      "actorName": "waifu",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:43:03.288Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa (Pantera mood)",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:45:37.767Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:47:02.163Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1429165469226500197",
+      "actorName": "Twisty",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T10:54:24.178Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1072120819402154037",
+      "actorName": "Gothic",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:23:46.468Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:31:02.136Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "695506021610815550",
+      "actorName": "Slavan",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:34:08.932Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:41:14.338Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:43:27.050Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "754741089281507359",
+      "actorName": "Carp",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:43:27.550Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:50:53.008Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1170308903582580776",
+      "actorName": "lapunez",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:51:37.713Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1525056150742106144",
+      "actorName": "show",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T11:53:37.800Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_MINUS",
+      "actorId": "695506021610815550",
+      "actorName": "Slavan",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T12:42:05.200Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "695506021610815550",
+      "actorName": "Slavan",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T12:42:11.851Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_MINUS",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa (Pantera mood)",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T12:53:40.985Z"
+    },
+    {
+      "mclId": 1,
+      "captId": null,
+      "action": "CAPT_MINUS",
+      "actorId": "695506021610815550",
+      "actorName": "Slavan",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T12:53:53.162Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "CAPT_FINISH",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 1,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:00:07.190Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_CREATE",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:00:37.773Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:00:42.595Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:21.499Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1190593261685964844",
+      "actorName": "Guggik",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:28.477Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1170308903582580776",
+      "actorName": "lapunez",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:36.897Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:38.584Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:40.639Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1429165469226500197",
+      "actorName": "Twisty",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:42.624Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:43.186Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1409550627557871687",
+      "actorName": "ИЛЮША",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:44.276Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:01:56.961Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:02:20.212Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:02:37.256Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "273106859035066375",
+      "actorName": "waifu",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:02:48.249Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "754741089281507359",
+      "actorName": "Carp",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:03:27.209Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "641930694758760449",
+      "actorName": "Kerry",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:04:30.857Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "730790319351660604",
+      "actorName": "Razor",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:05:56.782Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1048199324359729213",
+      "actorName": "Leo",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:06:36.927Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1072120819402154037",
+      "actorName": "Gothic",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:09:03.937Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:15:33.073Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "524114586920681484",
+      "actorName": "Dekcio",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:16:21.035Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1525056150742106144",
+      "actorName": "show",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:16:40.026Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "893169474398748742",
+      "actorName": "akame.1337",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:30:18.070Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_MINUS",
+      "actorId": "893169474398748742",
+      "actorName": "akame.1337",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:31:37.999Z"
+    },
+    {
+      "mclId": 2,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T13:38:49.821Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "CAPT_FINISH",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 2,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:21:17.392Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_CREATE",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:07.965Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1190593261685964844",
+      "actorName": "Guggik",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:09.843Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:10.027Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:10.126Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:12.311Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:12.908Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1170308903582580776",
+      "actorName": "lapunez",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:20.154Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1072120819402154037",
+      "actorName": "Gothic",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:23.289Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:29.271Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "754741089281507359",
+      "actorName": "Carp",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:42.514Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:46.105Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:50.494Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:28:58.359Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1525056150742106144",
+      "actorName": "show",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:29:14.349Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:30:38.450Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1429165469226500197",
+      "actorName": "Twisty",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:31:48.292Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "690953039779070013",
+      "actorName": "Romka",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:33:44.883Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "730790319351660604",
+      "actorName": "Razor",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:34:15.370Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:35:39.053Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "273106859035066375",
+      "actorName": "waifu",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T14:41:09.917Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1244067170976010305",
+      "actorName": "Obito",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T15:18:47.060Z"
+    },
+    {
+      "mclId": 3,
+      "captId": null,
+      "action": "CAPT_PLUS",
+      "actorId": "1409550627557871687",
+      "actorName": "ИЛЮША",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T15:18:53.757Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "CAPT_FINISH",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 3,
+      "targetName": null,
+      "timestamp": "2026-09-02T17:58:56.229Z"
+    },
+    {
+      "mclId": 4,
+      "captId": null,
+      "action": "CAPT_CREATE",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 4,
+      "targetName": null,
+      "timestamp": "2026-09-03T11:17:58.687Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1428289234770464799",
+      "targetName": "Kageshisa",
+      "timestamp": "2026-09-08T10:00:48.067Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_EXISTS",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1428289234770464799",
+      "targetName": "Kageshisa",
+      "timestamp": "2026-09-08T10:01:20.952Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1428289234770464799",
+      "targetName": "Kageshisa",
+      "timestamp": "2026-09-08T10:01:49.630Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1428289234770464799",
+      "targetName": "Kageshisa",
+      "timestamp": "2026-09-08T10:05:10.703Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1428289234770464799",
+      "targetName": "Kageshisa",
+      "timestamp": "2026-09-08T10:10:47.928Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": "828957469953884160",
+      "targetName": "Rotten",
+      "timestamp": "2026-09-08T10:10:53.171Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1251470497040826378",
+      "actorName": "Zenn",
+      "targetId": "1251470497040826378",
+      "targetName": "Zenn",
+      "timestamp": "2026-09-08T10:10:59.527Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "691600405456486461",
+      "actorName": "kabuka",
+      "targetId": "691600405456486461",
+      "targetName": "kabuka",
+      "timestamp": "2026-09-08T10:11:14.905Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "641930694758760449",
+      "actorName": "Kerry",
+      "targetId": "641930694758760449",
+      "targetName": "Kerry",
+      "timestamp": "2026-09-08T10:11:22.644Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": "484505431289364483",
+      "targetName": "Snake",
+      "timestamp": "2026-09-08T10:12:35.944Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": "1455178033655709751",
+      "targetName": "Sakura",
+      "timestamp": "2026-09-08T10:16:13.913Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1429165469226500197",
+      "actorName": "Twisty",
+      "targetId": "1429165469226500197",
+      "targetName": "Twisty",
+      "timestamp": "2026-09-08T10:22:11.119Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1048199324359729213",
+      "actorName": "Leo",
+      "targetId": "1048199324359729213",
+      "targetName": "Leo",
+      "timestamp": "2026-09-08T10:25:27.417Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "APPLICATION_CREATE",
+      "actorId": "1530000033338884329",
+      "actorName": "БОГДАН МАМУ ЛИТВЫ БАМ БАМ",
+      "targetId": "1530000033338884329",
+      "targetName": "Kageshiza",
+      "timestamp": "2026-09-08T10:44:11.538Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": "580019096683413514",
+      "targetName": "Danielo",
+      "timestamp": "2026-09-08T10:45:05.488Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1190593261685964844",
+      "actorName": "Guggik",
+      "targetId": "1190593261685964844",
+      "targetName": "Guggik",
+      "timestamp": "2026-09-08T11:34:47.042Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "APPLICATION_ACCEPT",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": "701507389157015632",
+      "targetName": null,
+      "timestamp": "2026-09-08T11:38:21.151Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "730790319351660604",
+      "actorName": "Razor",
+      "targetId": "730790319351660604",
+      "targetName": "Razor",
+      "timestamp": "2026-09-08T11:47:11.857Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "269692665304580106",
+      "actorName": "Maestro",
+      "targetId": "269692665304580106",
+      "targetName": "Maestro",
+      "timestamp": "2026-09-08T11:47:14.730Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "APPLICATION_REJECT",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": "1530000033338884329",
+      "targetName": "Kageshiza",
+      "timestamp": "2026-09-08T11:48:10.522Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "393045330037440518",
+      "actorName": "Murzik (Туса с арабами до 10.09)",
+      "targetId": "393045330037440518",
+      "targetName": "Murzik (Туса с арабами до 10.09)",
+      "timestamp": "2026-09-08T11:52:01.346Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_EXISTS",
+      "actorId": "393045330037440518",
+      "actorName": "Murzik (Туса с арабами до 10.09)",
+      "targetId": "393045330037440518",
+      "targetName": "Murzik (Туса с арабами до 10.09)",
+      "timestamp": "2026-09-08T11:52:01.622Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": "1085812699893612594",
+      "targetName": "m!shanya фрирайдер с украины",
+      "timestamp": "2026-09-08T12:44:45.537Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "695506021610815550",
+      "actorName": "Slavan",
+      "targetId": "695506021610815550",
+      "targetName": "Slavan",
+      "timestamp": "2026-09-08T12:58:28.818Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": "1224333734787022869",
+      "targetName": "Nikky",
+      "timestamp": "2026-09-08T14:31:01.109Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "1201632866036088913",
+      "actorName": "Lexus",
+      "targetId": "1201632866036088913",
+      "targetName": "Lexus",
+      "timestamp": "2026-09-08T15:03:35.653Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": "649504229928468502",
+      "targetName": "Jonatan",
+      "timestamp": "2026-09-08T15:30:31.329Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "APPLICATION_CREATE",
+      "actorId": "1007535281924227193",
+      "actorName": "ДАНЯ",
+      "targetId": "1007535281924227193",
+      "targetName": "Harukaze",
+      "timestamp": "2026-09-08T17:52:13.084Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "APPLICATION_TAKE",
+      "actorId": "1201632866036088913",
+      "actorName": "Lexus",
+      "targetId": "1007535281924227193",
+      "targetName": "Harukaze",
+      "timestamp": "2026-09-08T18:30:50.767Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_CREATE",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:47:46.662Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1048199324359729213",
+      "actorName": "Leo",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:47:59.623Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1468922455790850174",
+      "actorName": "Interiz",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:48:07.730Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:48:11.624Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "893169474398748742",
+      "actorName": "akame.1337",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:48:17.736Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1342844742882562069",
+      "actorName": "Lina",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:49:38.663Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:50:11.531Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "774288037935841309",
+      "actorName": "Frozen",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:50:31.115Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "664927419601256528",
+      "actorName": "Tema",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:50:51.752Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:52:25.469Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1495710536556609606",
+      "actorName": "Timur",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:53:28.473Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "1495710536556609606",
+      "actorName": "Timur",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:53:44.731Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T10:59:46.099Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "273106859035066375",
+      "actorName": "waifu",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:06:45.195Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1409550627557871687",
+      "actorName": "ilysha",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:21:53.866Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:24:31.188Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "467303889318707220",
+      "actorName": "!Maxim",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:33:57.479Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:35:09.703Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "641930694758760449",
+      "actorName": "Kerry",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:48:07.165Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T11:50:10.468Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1539944112533545085",
+      "actorName": "Silka",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:08:17.726Z"
+    },
+    {
+      "mclId": null,
+      "captId": null,
+      "action": "OTKAT_CREATE",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": "293034161999183874",
+      "targetName": "Ori",
+      "timestamp": "2026-09-09T12:08:20.526Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "664927419601256528",
+      "actorName": "Tema",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:12:48.018Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "351489523336609793",
+      "actorName": "В АРМИИ (233 ДДД)",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:20:26.312Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "351489523336609793",
+      "actorName": "В АРМИИ (233 ДДД)",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:20:39.809Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "963691722108461077",
+      "actorName": "Shiro",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:30:00.400Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:42:34.771Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "300157185634074637",
+      "actorName": "Stef",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:43:12.134Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:52:32.735Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "269692665304580106",
+      "actorName": "Maestro",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T12:53:26.453Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T13:23:42.826Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "1342844742882562069",
+      "actorName": "Lina",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T13:29:21.960Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "1048199324359729213",
+      "actorName": "Leo",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T13:30:02.314Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1201632866036088913",
+      "actorName": "Lexus",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T13:54:58.654Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "1428289234770464799",
+      "actorName": "Kageshisa",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:00:38.455Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:06:17.580Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "730790319351660604",
+      "actorName": "Razor",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:17:30.957Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1072198969075191858",
+      "actorName": "Kamil",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:24:35.839Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "730090861572128821",
+      "actorName": "Echo",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:25:31.197Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1170308903582580776",
+      "actorName": "lapunez",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:26:34.391Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "1455178033655709751",
+      "actorName": "Sakura",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:30:13.248Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:38:22.361Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "300157185634074637",
+      "actorName": "Stef",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:43:20.933Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:45:25.644Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_MINUS",
+      "actorId": "774288037935841309",
+      "actorName": "Frozen",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T14:47:28.977Z"
+    },
+    {
+      "mclId": null,
+      "captId": 5,
+      "action": "CAPT_PLUS",
+      "actorId": "1244067170976010305",
+      "actorName": "Obito",
+      "targetId": 5,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:06:21.697Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_CREATE",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:36.557Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "331065359626928128",
+      "actorName": "Geshka",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:38.274Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "649504229928468502",
+      "actorName": "Jonatan",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:45.385Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1468922455790850174",
+      "actorName": "Interiz",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:45.431Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "293034161999183874",
+      "actorName": "Ori",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:48.996Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "828957469953884160",
+      "actorName": "Rotten",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:09:53.289Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "467303889318707220",
+      "actorName": "!Maxim",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:01.835Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1072198969075191858",
+      "actorName": "Kamil",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:02.502Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1085812699893612594",
+      "actorName": "m!shanya фрирайдер с украины",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:05.293Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1244067170976010305",
+      "actorName": "Obito",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:08.175Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "893169474398748742",
+      "actorName": "akame.1337",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:20.331Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "730790319351660604",
+      "actorName": "Razor",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:23.844Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1170308903582580776",
+      "actorName": "lapunez",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:10:35.219Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "273106859035066375",
+      "actorName": "waifu",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:11:26.062Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1224333734787022869",
+      "actorName": "Nikky",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:11:28.363Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1409550627557871687",
+      "actorName": "ilysha",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:11:31.131Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "963691722108461077",
+      "actorName": "Shiro",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:11:34.951Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "1539944112533545085",
+      "actorName": "Silka",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:12:07.041Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "580019096683413514",
+      "actorName": "Danielo",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:13:05.669Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "948272643461771274",
+      "actorName": "ORGAZM",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:14:40.828Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "269692665304580106",
+      "actorName": "Maestro",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:18:30.348Z"
+    },
+    {
+      "mclId": null,
+      "captId": 6,
+      "action": "CAPT_PLUS",
+      "actorId": "484505431289364483",
+      "actorName": "Snake",
+      "targetId": 6,
+      "targetName": null,
+      "timestamp": "2026-09-09T15:27:33.159Z"
+    }
+  ],
+  "stats": {
+    "331065359626928128": {
+      "name": "Geshka",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "828957469953884160": {
+      "name": "Rotten",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1048199324359729213": {
+      "name": "Leo",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "1455178033655709751": {
+      "name": "Sakura",
+      "joined": 4,
+      "main": 4,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "484505431289364483": {
+      "name": "Snake",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "641930694758760449": {
+      "name": "Kerry",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1190593261685964844": {
+      "name": "Guggik",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "293034161999183874": {
+      "name": "Ori",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1409550627557871687": {
+      "name": "ilysha",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "273106859035066375": {
+      "name": "waifu",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1428289234770464799": {
+      "name": "Kageshisa",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 2,
+      "removed": 0
+    },
+    "580019096683413514": {
+      "name": "Danielo",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1429165469226500197": {
+      "name": "Twisty",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1072120819402154037": {
+      "name": "Gothic",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "649504229928468502": {
+      "name": "Jonatan",
+      "joined": 6,
+      "main": 6,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "695506021610815550": {
+      "name": "Slavan",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 2,
+      "removed": 0
+    },
+    "1224333734787022869": {
+      "name": "Nikky",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1085812699893612594": {
+      "name": "m!shanya фрирайдер с украины",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "754741089281507359": {
+      "name": "Carp",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "730090861572128821": {
+      "name": "Echo",
+      "joined": 4,
+      "main": 4,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "1170308903582580776": {
+      "name": "lapunez",
+      "joined": 5,
+      "main": 5,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1525056150742106144": {
+      "name": "show",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "730790319351660604": {
+      "name": "Razor",
+      "joined": 4,
+      "main": 4,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "524114586920681484": {
+      "name": "Dekcio",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "893169474398748742": {
+      "name": "akame.1337",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "690953039779070013": {
+      "name": "Romka",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1244067170976010305": {
+      "name": "Obito",
+      "joined": 3,
+      "main": 3,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1468922455790850174": {
+      "name": "Interiz",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1342844742882562069": {
+      "name": "Lina",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "774288037935841309": {
+      "name": "Frozen",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "664927419601256528": {
+      "name": "Tema",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "1495710536556609606": {
+      "name": "Timur",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "467303889318707220": {
+      "name": "!Maxim",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1539944112533545085": {
+      "name": "Silka",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "351489523336609793": {
+      "name": "В АРМИИ (233 ДДД)",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "963691722108461077": {
+      "name": "Shiro",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "300157185634074637": {
+      "name": "Stef",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 1,
+      "removed": 0
+    },
+    "269692665304580106": {
+      "name": "Maestro",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1201632866036088913": {
+      "name": "Lexus",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "1072198969075191858": {
+      "name": "Kamil",
+      "joined": 2,
+      "main": 2,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    },
+    "948272643461771274": {
+      "name": "ORGAZM",
+      "joined": 1,
+      "main": 1,
+      "reserve": 0,
+      "promoted": 0,
+      "declined": 0,
+      "removed": 0
+    }
+  },
+  "applications": {
+    "1530000033338884329": {
+      "number": 1,
+      "status": "rejected",
+      "channelId": "1546833522226896896",
+      "nick": "Kageshiza",
+      "createdAt": "2026-09-08T10:44:09.600Z",
+      "updatedAt": "2026-09-08T11:48:10.521Z",
+      "handledBy": "1428289234770464799"
+    },
+    "1007535281924227193": {
+      "number": 2,
+      "status": "review",
+      "channelId": "1546941238517956699",
+      "nick": "Harukaze",
+      "createdAt": "2026-09-08T17:52:10.555Z",
+      "updatedAt": "2026-09-08T18:30:50.766Z",
+      "handledBy": "1201632866036088913"
+    }
+  }
+}
